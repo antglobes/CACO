@@ -6,6 +6,12 @@ Disclaimer:
 - Only wav or mp3 files are accepted for conversion
 - Please be aware that all audio files will be given the same ogg comment, if you want to change them indiviually try using SaVT
 
+Credits:
+
+- Anonymous Nerd (Compilment): Dll Usage.
+- Ravenascendant: Providing useful sources.
+- Thial: Stalker Modding Helper (used as reference).
+
 ## How to use
 
 Setup the `config.ini` file with the relevant paths, place it in the same directory as the `caco.exe` and the `add_ogg_comment.dll` and either double click it to run or doing `.\caco.exe` in a command prompt.
