@@ -4,6 +4,7 @@ Disclaimer:
 
 - [Ffmpeg](https://www.ffmpeg.org/download.html) Must be installed to use this tool
 - Only wav or mp3 files are accepted for conversion
+- Please be aware that all audio files will be given the same ogg comment, if you want to change them indiviually try using SaVT
 
 ## How to use
 
